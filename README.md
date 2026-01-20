@@ -28,3 +28,5 @@ If you just want to try out running from the command line, you can build and run
 * `docker run -it phas0100env /bin/bash`
 
 You'll then have an interactive terminal on the Ubuntu image where you can try out any shell command.
+
+Testing git with this additional message

@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, this is an update" << std::endl;
+    std::cout << "Hello, git pull test" << std::endl;
     return 0;
 }

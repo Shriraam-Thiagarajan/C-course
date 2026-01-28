@@ -2,6 +2,6 @@
 
 int main() {
 
-    std::cout << "I am testing branches with this" << std::endl;
+    std::cout << "I have merged my master files" << std::endl;
     return 0;
 }
